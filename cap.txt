@@ -1,2 +1,2 @@
-https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfjEokUAAAAAEtA93AOFkZGKl-QzM9c5iqa320v&co=aHR0cHM6Ly9jbG91ZC52YXN0LmFpOjQ0Mw..&hl=fr&v=rKbTvxTxwcw5VqzrtN-ICwWt&size=invisible&cb=sqna4i7j5da6
+https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfjEokUAAAAAEtA93AOFkZGKl-QzM9c5iqa320v&co=aHR0cHM6Ly9jbG91ZC52YXN0LmFpOjQ0Mw.&hl=fr&v=rKbTvxTxwcw5VqzrtN-ICwWt&size=invisible&cb=sqna4i7j5da6
 https://www.google.com/recaptcha/api2/reload?k=6LfjEokUAAAAAEtA93AOFkZGKl-QzM9c5iqa320v
